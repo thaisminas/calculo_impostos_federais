@@ -1,0 +1,7 @@
+CALCULO DE IMPOSTOS FEDERAIS 
+ 
+
+Valor a recolher PIS sobre Lucro Presumido R$ 165.15
+Valor a recolher COFINS sobre Lucro Presumido R$ 760.68
+Valor a recolher IRPJ sobre Lucro Real R$4250.0
+Valor a recolher CSLL sobre Lucro Real R$2250.0
